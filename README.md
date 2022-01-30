@@ -23,3 +23,5 @@ Puppet/Ansible - Configuration management tools
 Selenium - For automating tests on the deployed web application
 
 This project will deploy code to dev/stage/prod etc, just on a click of button
+
+# REFER to SCREENSHOT Folder
