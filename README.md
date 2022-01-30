@@ -16,11 +16,11 @@ branch.
 
 # Solution/Steps:
 
-Git – For version control for tracking changes in the code files
-Jenkins – For continuous integration and continuous deployment
-Docker – For deploying containerized applications
-Puppet/Ansible - Configuration management tools
-Selenium - For automating tests on the deployed web application
+**Git** – For version control for tracking changes in the code files \
+**Jenkins** – For continuous integration and continuous deployment \
+**Docker** – For deploying containerized applications \
+**Ansible** - Configuration management tools \
+**Selenium** - For automating tests on the deployed web application \
 
 This project will deploy code to dev/stage/prod etc, just on a click of button
 
